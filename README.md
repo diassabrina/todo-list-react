@@ -1,10 +1,3 @@
-
-### Instruções 
-```bash
-Inicie o projeto e vá até o dia 28/09/2018
-```
-
-
 ### Technologies
 
 - React
